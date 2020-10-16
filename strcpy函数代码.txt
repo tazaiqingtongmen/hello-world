@@ -14,3 +14,4 @@ char* StrCpy(char* src)
 	*temp='\0';
 	return temp;
 }
+sdfkjbskjfb
